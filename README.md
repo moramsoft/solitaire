@@ -1,17 +1,7 @@
-# cleardeck_solitaire
+# BigType Solitaire (`BigType: Large Print Solitaire`)
 
-A new Flutter project.
+Senior-focused, large-print Klondike Solitaire built with Flutter for Android and iOS (`com.cleardeck.solitaire`).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Home Screen Label:** `BigType`
+- **Store Title:** `BigType: Large Print Solitaire`
+- **Core Highlights:** Oversized high-contrast cards, guaranteed-winnable solver & Smart Rewind, 5 deck styles, 8 card backs, 50 quests, and a 6-lesson interactive tutorial.

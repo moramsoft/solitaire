@@ -1,9 +1,9 @@
-/// Centralized US English UI strings for ClearDeck Solitaire (ready for i18n).
+/// Centralized US English UI strings for BigType Solitaire (ready for i18n).
 class AppStrings {
   const AppStrings._();
 
-  static const String appTitle = 'ClearDeck Solitaire';
-  static const String betaBadge = 'ClearDeck Solitaire 1.0';
+  static const String appTitle = 'BigType Solitaire';
+  static const String betaBadge = 'BigType Solitaire 1.0';
 
   // Top bar
   static const String movesLabel = 'Moves';

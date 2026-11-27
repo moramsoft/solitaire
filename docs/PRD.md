@@ -1,6 +1,7 @@
-# ClearDeck Solitaire — Product Requirements Document (PRD v1.0)
+# BigType Solitaire — Product Requirements Document (PRD v1.0)
 
-**Product Name:** ClearDeck Solitaire  
+**Product Name:** BigType Solitaire (`BigType: Large Print Solitaire`)  
+**Home Screen Label:** `BigType`  
 **Package / Bundle ID:** `com.cleardeck.solitaire`  
 **Target Market (v1.0):** United States (English-only; UI strings centralized for future localization)  
 **Platforms:** Android & iOS (Phone Portrait + Tablet Landscape/Portrait via single Flutter codebase)  
@@ -10,10 +11,10 @@
 
 ## 1. Executive Summary & Positioning
 
-ClearDeck Solitaire is a dignified, ultra-clear, zero-clutter classic Klondike Solitaire built for **55–74 Active Seniors (core volume)** and **75+ / low-vision players (supported seamlessly through clean, respectful customization)**.
+BigType Solitaire is a dignified, ultra-clear, zero-clutter classic Klondike Solitaire built for **55–74 Active Seniors (core volume)** and **75+ / low-vision players (supported seamlessly through clean, respectful customization)**.
 
 ### Positioning Principle: Respectful Universal Craft (No "Elderspeak" UI)
-Older adults who enjoy Klondike daily are experienced, independent smartphone and tablet users—not children or helpless patients. ClearDeck deliberately avoids patronizing "senior mode" tropes:
+Older adults who enjoy Klondike daily are experienced, independent smartphone and tablet users—not children or helpless patients. BigType deliberately avoids patronizing "senior mode" tropes:
 - **No forced onboarding quizzes or 3-step wizards** (launches straight into Deal #1 in under 1 second).
 - **No childish icons, patronizing copy, PIN/long-press locks, or locked-down feature walls.**
 - **No forced leagues, fake AI competitor popups, or meaningless coin economies.**
